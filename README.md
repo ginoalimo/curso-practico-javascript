@@ -5,3 +5,5 @@ Curso practico de javascript
 
 - Primer paso: definir las formulas
 - Segundo: implementacion en javascript
+- Tercero: Crear funciones
+- Cuarto: integrar javascript con html
